@@ -1,7 +1,7 @@
 {
-  "name": "@cpreciosp/pkg-name",
+  "name": "@cprecioso/pkg-name",
   "version": "0.1.0",
-  "description": "@cpreciosp/pkg-name description",
+  "description": "@cprecioso/pkg-name description",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cprecioso/pkg-name.git"
